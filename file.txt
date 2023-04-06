@@ -1,0 +1,13 @@
+Pink rose of height 12, that costs  8$ and comes from China.
+White tulip of height 10, that costs 5$ and comes from the Netherlands.
+Red rose of height 14, that costs 7$ and comes from North America.
+Pink peony of height 12, that costs 5$ and comes from China.
+Pink rose of height 14, that costs 8$ and comes from China.
+Yellow tulip of height 13, that costs 5$ and comes from Turkey.
+White rose of height 12, that costs 6$ and comes from China.
+Yellow rose of height 18, that costs 9$ and comes from Bulgaria.
+Pink tulip of height 16, that costs 7$ and comes from Switzerland.
+White lily of height 12, that costs 6$ and comes from Greece.
+Money tree of height 13, that costs 15$ and comes from China.
+Philodendron of height 20, that costs 20$ and comes from Colombia.
+Pink Christmas cactus of height 7, that cost 13$ and comes from Brazil.
